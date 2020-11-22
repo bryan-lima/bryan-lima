@@ -82,12 +82,12 @@
 - **Instituição:** Faculdade Bilac - São José dos Campos/SP
 - **Projetos desenvolvidos:**
   - **Título:** Tattooando 💀
-  - **Sobre:** Projeto de desenvolvimento de aplicação web e mobile para agendamento de serviços de tatuagem, consumindo webservice própria.
+  - **Sobre:** Projeto de desenvolvimento de aplicação web e mobile para agendamento de serviços de tatuagem, consumindo webservice própria
   - **Link para repositório:** ⚠️ Repositório privado
   - **Link para webservice:** **[webservice-tattooando.000webhostapp.com](https://webservice-tattooando.000webhostapp.com/)**
   ---
   - **Título:** AgendaPet 🐶
-  - **Sobre:** Projeto funcional de aplicativo para Android de agendamento de PetShop. Desenvolvimento usando linguagem Java, Firebase e banco de dados NoSQL. Projeto apresentado na Semana de Gestão, Tecnologia e Inovação (SGTI), promovido pela Faculdade Bilac.
+  - **Sobre:** Projeto funcional de aplicativo para Android de agendamento de PetShop. Desenvolvimento usando linguagem Java, Firebase e banco de dados NoSQL. Projeto apresentado na Semana de Gestão, Tecnologia e Inovação (SGTI), promovido pela Faculdade Bilac
   - **Link para repositório:** **[@BilacSJC/AgendaPet](https://github.com/BilacSJC/AgendaPet)**
   ---
   - **Título:** Memory Game 🎴
@@ -105,7 +105,7 @@
 - **Instituição:** ETEC Cônego José Bento - Jacareí/SP
 - **Trabalho Conclusão de Curso:**
   - **Título:** Sistema de Automação Residencial Integrado à Rede 🏠
-  - **Sobre:** Projeto funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de aceder e apagar luzes, abrir e fechar o portão.
+  - **Sobre:** Projeto funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de acender e apagar luzes, abrir e fechar o portão
   - **Veja o projeto em funcionamento:** **[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://youtu.be/56V8g1gVlg8)**
   - **Link para repositório:** **[@augustoliks/Casa-Inteligente-Arduino](https://github.com/augustoliks/Casa-Inteligente-Arduino)**
 <!-- ---
@@ -133,4 +133,4 @@
 
 ---
 
-_**Última revisão:** 17 nov. 2020._
+_**Última revisão:** 22 nov. 2020._
