@@ -17,8 +17,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/realBryanLima)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bryanlima01)
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bryan-lima)
-[![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url)
-[![HitCount](http://hits.dwyl.com/bryan-lima/bryan-lima.svg)](http://hits.dwyl.com/bryan-lima/bryan-lima) -->
+[![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url) -->
 
 <p align="center">
   <a href="mailto:bryanlima200@outlook.com" target="_blank">
@@ -56,10 +55,6 @@
   <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url" target="_blank">
     <img alt="Paypal" src="https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal">
   </a> -->
-
-  <a href="http://hits.dwyl.com/bryan-lima/bryan-lima" target="_blank">
-    <img alt="HitCountOutlook" src="http://hits.dwyl.com/bryan-lima/bryan-lima.svg">
-  </a>
 </p>
 
 <!-- [![Bryan's Github stats](https://github-readme-stats.vercel.app/api?username=bryan-lima&count_private=true&show_icons=true)](https://github.com/bryan-lima/bryan-lima/blob/master/README.md)
@@ -129,8 +124,20 @@
 
 - Javascript
 - React
-- Python -->
+- Docker -->
 
 ---
 
-_**Última revisão:** 22 nov. 2020._
+## 📚 Estudos Atuais
+
+- Python 🐍
+
+---
+
+## 📖 Leituras
+
+- [Introdução à programação com Python - 3ª Edição | Nilo Ney Coutinho Menezes](https://www.novatec.com.br/livros/introducao-python-3ed/)
+
+---
+
+_**Última revisão:** 23 jan. 2021._
