@@ -130,7 +130,9 @@
 
 ## 📚 Estudos Atuais
 
-- Python 🐍
+<!-- - Python 🐍 -->
+- C#
+- .NET
 
 ---
 
@@ -140,4 +142,4 @@
 
 ---
 
-_**Última revisão:** 23 jan. 2021._
+_**Última atualização:** 24 mar. 2021._
