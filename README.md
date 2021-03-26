@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<img alt="Saudação" title="Saudação"  src=".github/salutation.gif" width="100%">
+	<img alt="Saudação" title="Saudação"  src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/salutation.gif" width="100%">
 </h1>
 
 <!-- <h1 align="center"> 
@@ -20,39 +20,39 @@
 [![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url) -->
 
 <p align="center">
-  <a href="mailto:bryanlima200@outlook.com" target="_blank">
+  <a href="mailto:bryanlima200@outlook.com" target="_blank" rel="noreferrer noopener">
     <img alt="Outlook" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:bryanlima200@outlook.com">
   </a>
 
-  <a href="https://t.me/bryanlima" target="_blank">
+  <a href="https://t.me/bryanlima" target="_blank" rel="noreferrer noopener">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-D14836?color=2CA5E0&style=flat-square&logo=telegram&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/-bryanlima" target="_blank">
+  <a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-bryanlima/">
   </a>
 
-  <!-- <a href="https://www.facebook.com/bryanlima.20" target="_blank">
+  <!-- <a href="https://www.facebook.com/bryanlima.20" target="_blank" rel="noreferrer noopener">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">
   </a> -->
 
-  <!-- <a href="https://twitter.com/realBryanLima" target="_blank">
+  <!-- <a href="https://twitter.com/realBryanLima" target="_blank" rel="noreferrer noopener">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white">
   </a> -->
 
-  <!-- <a href="https://www.instagram.com/bryanlima01" target="_blank">
+  <!-- <a href="https://www.instagram.com/bryanlima01" target="_blank" rel="noreferrer noopener">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a> -->
 
-  <!-- <a href="https://dev.to/bryanlima_" target="_blank">
+  <!-- <a href="https://dev.to/bryanlima_" target="_blank" rel="noreferrer noopener">
 	  <img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white">
   </a> -->
 
-  <!-- <a href="https://medium.com/@bryan-lima" target="_blank">
+  <!-- <a href="https://medium.com/@bryan-lima" target="_blank" rel="noreferrer noopener">
 	  <img alt="Medium" src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white">
   </a> -->
   
-  <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url" target="_blank">
+  <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url" target="_blank" rel="noreferrer noopener">
     <img alt="Paypal" src="https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal">
   </a> -->
 </p>
@@ -131,8 +131,9 @@
 ## 📚 Estudos Atuais
 
 <!-- - Python 🐍 -->
-- C#
-- .NET
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="24">
+- <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" height="24">
+- <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" height="24">
 
 ---
 
@@ -142,4 +143,4 @@
 
 ---
 
-_**Última atualização:** 24 mar. 2021._
+_**Última atualização:** 25 mar. 2021._
