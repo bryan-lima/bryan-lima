@@ -128,6 +128,12 @@
 
 ---
 
+## 🎓 Certificados
+
+- **[Clique aqui](https://github.com/bryan-lima/certificados)** e veja os cursos finalizados e respectivos certificados emitidos
+
+---
+
 ## 📚 Estudos Atuais
 
 <!-- - Python 🐍 -->
@@ -139,7 +145,7 @@
 
 ## 📖 Leituras
 
-- [Introdução à programação com Python - 3ª Edição | Nilo Ney Coutinho Menezes](https://www.novatec.com.br/livros/introducao-python-3ed/)
+- **[Introdução à programação com Python - 3ª Edição | Nilo Ney Coutinho Menezes](https://www.novatec.com.br/livros/introducao-python-3ed/)**
 
 ---
 
