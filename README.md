@@ -62,11 +62,11 @@
 
 <p  align="center">
   <a href="https://github.com/bryan-lima/bryan-lima/blob/master/README.md">
-    <img alt="Bryan's Github stats" src="https://github-readme-stats.vercel.app/api?username=bryan-lima&count_private=true&show_icons=true">
+    <img alt="Bryan's Github stats" src="https://github-readme-stats.vercel.app/api?username=bryan-lima&count_private=true&show_icons=true&theme=algolia">
   </a>
 
   <a href="https://github.com/bryan-lima/bryan-lima/blob/master/README.md">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-lima&layout=compact">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-lima&layout=compact&theme=algolia">
   </a>
 </p>
 
