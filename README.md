@@ -66,7 +66,7 @@
   </a>
 
   <a href="https://github.com/bryan-lima/bryan-lima/blob/master/README.md">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-lima&layout=compact&theme=algolia">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-lima&layout=compact&theme=algolia&hide=jupyter%20notebook">
   </a>
 </p>
 
@@ -151,4 +151,4 @@
 
 ---
 
-_**Última atualização:** 02 ago. 2021._
+_**Última atualização:** 01 set. 2021._
