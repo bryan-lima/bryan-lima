@@ -151,4 +151,4 @@
 
 ---
 
-_**Última atualização:** 01 set. 2021._
+_**Última atualização:** 23 fev. 2022._
