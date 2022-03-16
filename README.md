@@ -68,6 +68,14 @@
   <a href="https://github.com/bryan-lima/bryan-lima/blob/master/README.md">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-lima&layout=compact&theme=algolia&hide=jupyter%20notebook">
   </a>
+
+  <!-- <a href="https://github.com/bryan-lima/github-stats">
+    <img  alt="Bryan Lima - GitHub Stats" width="400px" src="https://github.com/bryan-lima/github-stats/blob/master/generated/overview.svg" />
+  </a>
+
+  <a href="https://github.com/bryan-lima/github-stats">
+    <img  alt="Bryan Lima - GitHub Stats" width="400px" src="https://github.com/bryan-lima/github-stats/blob/master/generated/languages.svg" />
+  </a> -->
 </p>
 
 ## 🎓 Formação
@@ -152,4 +160,4 @@
 
 ---
 
-_**Última atualização:** 11 mar. 2022._
+_**Última atualização:** 15 mar. 2022._
