@@ -23,10 +23,6 @@
   <a href="mailto:bryanlima200@outlook.com" target="_blank" rel="noreferrer noopener">
     <img alt="Outlook" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:bryanlima200@outlook.com">
   </a>
-
-  <a href="https://t.me/bryanlima" target="_blank" rel="noreferrer noopener">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-D14836?color=2CA5E0&style=flat-square&logo=telegram&logoColor=white">
-  </a>
   
   <a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-bryanlima/">
