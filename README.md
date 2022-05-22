@@ -20,8 +20,8 @@
 [![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XRSGDU6FKWT2&source=url) -->
 
 <p align="center">
-  <a href="mailto:bryanlima200@outlook.com" target="_blank" rel="noreferrer noopener">
-    <img alt="Outlook" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:bryanlima200@outlook.com">
+  <a href="mailto:bryanlima.dev@gmail.com" target="_blank" rel="noreferrer noopener">
+    <img alt="Outlook" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:bryanlima.dev@gmail.com">
   </a>
   
   <a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
