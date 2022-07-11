@@ -21,11 +21,11 @@
 
 <p align="center">
   <a href="mailto:bryanlima.dev@gmail.com" target="_blank" rel="noreferrer noopener">
-    <img alt="Outlook" src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:bryanlima.dev@gmail.com">
+    <img alt="Outlook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bryanlima.dev@gmail.com">
   </a>
   
   <a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-bryanlima/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/-bryanlima/">
   </a>
 
   <!-- <a href="https://www.facebook.com/bryanlima.20" target="_blank" rel="noreferrer noopener">
