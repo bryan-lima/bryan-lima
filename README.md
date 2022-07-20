@@ -6,14 +6,14 @@
 	Hi there, I'm Bryan Lima 👋
 </h1> -->
 
+- ⌨️ I'm currently .NET backend developer
+- 🖥️ I also take a little risk with frontend
+- ✍️ I'm constantly learning
+- ➗ I share what little knowledge I have whenever possible
+
 <h5 align="center"> 
   <i>"People who avoid failures also avoid successes."</i><br>
 </h5>
-
-<!-- - ⌨️ I'm currently .NET backend developer
-- 🖥️ I also take a little risk with frontend
-- ✍️ I'm constantly learning
-- ➗ I share what little knowledge I have whenever possible -->
 
 <p  align="center">
   <a href="https://github.com/bryan-lima/bryan-lima/blob/master/README.md"></a>
@@ -38,9 +38,9 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt=".NET Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt=".NET" height="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
@@ -62,4 +62,4 @@
 
 ---
 
-_**Last update:** 19 jul. 2022._
+_**Last update:** 20 jul. 2022._
