@@ -13,18 +13,23 @@
 
 You can find me at:
 
-<a href="mailto:bryanlima.dev@gmail.com" target="_blank" rel="noreferrer noopener">
-  <img alt="Bryan Lima | Gmail" src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/icons/gmail.svg"  width="21px" align="left">
-</a>
-<a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
-  <img alt="Bryan Lima | LinkedIn" src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/icons/linkedin.svg"  width="21px" align="left">
-</a>
-<!-- <a href="https://dev.to/bryanlima_" target="_blank" rel="noreferrer noopener">
-  <img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" align="left">
-</a> -->
-<!-- <a href="https://medium.com/@bryan-lima" target="_blank" rel="noreferrer noopener">
-  <img alt="Medium" src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" align="left">
-</a> -->
+<div style="display: inline_block">
+  <a href="mailto:bryanlima.dev@gmail.com" target="_blank" rel="noreferrer noopener">
+    <img alt="Bryan Lima | Gmail" src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/icons/gmail.svg" height="30em" align="left">
+  </a>
+
+  <a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
+    <img alt="Bryan Lima | LinkedIn" src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/icons/linkedin.svg" height="30em" align="left">
+  </a>
+
+  <!-- <a href="https://dev.to/bryanlima_" target="_blank" rel="noreferrer noopener">
+    <img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" align="left">
+  </a> -->
+
+  <!-- <a href="https://medium.com/@bryan-lima" target="_blank" rel="noreferrer noopener">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" align="left">
+  </a> -->
+</div>
 
 <br>
 
