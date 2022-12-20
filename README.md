@@ -2,16 +2,15 @@
 	<img alt="Greeting" title="Greeting"  src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/salutation.gif" width="100%">
 </h1>
 
-<!-- <h1 align="center">
-	Hi there, I'm Bryan Lima 👋
-</h1> -->
-
 -   ⌨️ I'm currently .NET backend developer
 -   🖥️ I also take a little risk with frontend
 -   ✍️ I'm constantly learning
 -   ➗ I share what little knowledge I have whenever possible
 
 You can find me at:
+
+[![GitHub bryan-lima](https://img.shields.io/github/followers/bryan-lima?label=follow&style=social)](https://github.com/bryan-lima)
+<sub>ㅤ</sub>
 
 <div style="display: inline_block">
   <a href="mailto:bryanlima.dev@gmail.com" target="_blank" rel="noreferrer noopener">
@@ -21,14 +20,6 @@ You can find me at:
   <a href="https://www.linkedin.com/in/-bryanlima" target="_blank" rel="noreferrer noopener">
     <img alt="Bryan Lima | LinkedIn" src="https://raw.githubusercontent.com/bryan-lima/bryan-lima/master/.github/icons/linkedin.svg" height="30em" align="left">
   </a>
-
-  <!-- <a href="https://dev.to/bryanlima_" target="_blank" rel="noreferrer noopener">
-    <img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" align="left">
-  </a> -->
-
-  <!-- <a href="https://medium.com/@bryan-lima" target="_blank" rel="noreferrer noopener">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" align="left">
-  </a> -->
 </div>
 
 <br>
